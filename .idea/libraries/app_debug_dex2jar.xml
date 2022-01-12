@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="app-debug-dex2jar">
+    <CLASSES>
+      <root url="jar:///Applications/dex-tools-2.1/app-debug-dex2jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
